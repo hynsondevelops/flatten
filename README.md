@@ -11,6 +11,7 @@
 ### Clone the repo
 
 git clone https://github.com/hynsondevelops/flatten
+
 cd flatten
 
 ### Run the tests
